@@ -156,7 +156,7 @@ void startRace()
 //=====[ stopRace ]=============================================================
 void stopRace()
 {
-  printTagsSeen();
+  //printTagsSeen();
   // blank time race started
   TimeRaceStarted = 0;
   // set race running flag
@@ -165,7 +165,7 @@ void stopRace()
   memset(TagsSeen, 0, sizeof(TagsSeen));
   // stop scanning for tags
   nano.stopReading();
-  printTagsSeen();
+  //printTagsSeen();
 }
 
 //=====[ reportTags ]===========================================================
