@@ -36,7 +36,7 @@ To build a ZRound SRTR, you need:
 
 # Antenna Selection
 Selecting the right antenna is critical to getting good reads of the tags as they pass.
-* FEIG ID ANT.U LOCFIELD® Antenna - above the track
+* [FEIG ID ANT.U LOCFIELD® Antenna](https://www.feig-electronics.com/en/products/identification/product/id-antu-locfieldr/) - above the track
   Also known as the Harting Locfield Ha-Vis Travelling Wave Antenna. Works great but it doesn't like to touch the ground during operation, so it needs to be suspended from a bridge.
   Use the 1.5m version for 3-tile wide 30CM RCP track or 2-tile 50CM RCP track. Use the 2.5m version for 3-tile 50CM RCP track.
   
