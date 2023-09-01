@@ -27,9 +27,8 @@ To build a ZRound SRTR, you need:
   
 - [SparkFun Simultaneous RFID Tag Reader](https://www.sparkfun.com/products/14066)
   
-   <img src="https://github.com/cptserial/ZRound_SRTR/assets/5551724/49197af6-782c-45b1-a9a6-6f65003d550e" width="445px">
+   <img src="https://github.com/cptserial/ZRound_SRTR/assets/5551724/634655da-342a-4c9b-b9de-6a6c947be718" width="445px">
 
-  
 - Appropriate antenna ([see Antenna Selection Guide](#antenna-selection))
 - UFL to (antenna connector on your antenna) adapter
 - 3D printed enclosure
