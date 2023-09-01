@@ -40,13 +40,13 @@ Selecting the right antenna is critical to getting good reads of the tags as the
   Also known as the Harting Locfield Ha-Vis Travelling Wave Antenna. Works great but it doesn't like to touch the ground during operation, so it needs to be suspended from a bridge.
   Use the 
   (Put picture of bridge with antenna here)
-  ![68747470733a2f2f7777772e666569672e64652f66696c6561646d696e2f757365725f75706c6f61642f496d616765732f50726f64756b74652f464549475f4964656e74696669636174696f6e5f416e74656e6e655f4c4f434649454c445f3130305f3135305f32385f4](https://github.com/cptserial/ZRound_SRTR/assets/5551724/d33821bc-21fb-4989-bf5f-4f131f8dd170)
+  <img src="https://github.com/cptserial/ZRound_SRTR/assets/5551724/d33821bc-21fb-4989-bf5f-4f131f8dd170" width="445px">
 
 * [FlexiRay SF2 Ultra Slim RFID Antenna](https://www.flexiray.com/products/sf2/) - Above or below the track
   (Still testing) Super thin, so you can pass it under the track. May require milling of the track underside.
   Use the SF-2421 (with pigtail) or SF-2401 (flush connector) for 3-tile wide 30CM RCP track or 2-tile 50CM RCP track.
-  ![AT-0001](https://github.com/cptserial/ZRound_SRTR/assets/5551724/ae4b1c02-abcb-4de0-87f7-92ffed3e4971)
 
+  <img src="https://github.com/cptserial/ZRound_SRTR/assets/5551724/1c104a4c-40b1-4580-9611-6ce1bda479d0" width="445px">
 
 # Tag Selection
   
