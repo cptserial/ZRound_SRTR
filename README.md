@@ -38,8 +38,8 @@ To build a ZRound SRTR, you need:
 Selecting the right antenna is critical to getting good reads of the tags as they pass.
 * FEIG ID ANT.U LOCFIELD® Antenna - above the track
   Also known as the Harting Locfield Ha-Vis Travelling Wave Antenna. Works great but it doesn't like to touch the ground during operation, so it needs to be suspended from a bridge.
-  Use the 
-  (Put picture of bridge with antenna here)
+  Use the 1.5m version for 3-tile wide 30CM RCP track or 2-tile 50CM RCP track. Use the 2.5m version for 3-tile 50CM RCP track.
+  
   <img src="https://github.com/cptserial/ZRound_SRTR/assets/5551724/d33821bc-21fb-4989-bf5f-4f131f8dd170" width="445px">
 
 * [FlexiRay SF2 Ultra Slim RFID Antenna](https://www.flexiray.com/products/sf2/) - Above or below the track
