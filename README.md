@@ -22,7 +22,14 @@ The SparkFun Simultaneous RFID Tag Reader (SRTR) is an Arduino HAT designed to l
 # Parts Needed
 To build a ZRound SRTR, you need:
 - [Arduino Uno R4](https://store.arduino.cc/pages/uno-r4)
+
+  <img src="https://github.com/cptserial/ZRound_SRTR/assets/5551724/fba5b56f-4696-40d2-8bac-2b6e41ce4964" width="445px">
+  
 - [SparkFun Simultaneous RFID Tag Reader](https://www.sparkfun.com/products/14066)
+  
+   <img src="https://github.com/cptserial/ZRound_SRTR/assets/5551724/49197af6-782c-45b1-a9a6-6f65003d550e" width="445px">
+
+  
 - Appropriate antenna ([see Antenna Selection Guide](#antenna-selection))
 - UFL to (antenna connector on your antenna) adapter
 - 3D printed enclosure
