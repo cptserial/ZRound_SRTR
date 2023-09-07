@@ -34,22 +34,26 @@ To build a ZRound SRTR, you need:
 
   <img src="https://github.com/cptserial/ZRound_SRTR/assets/5551724/ab9a17df-d180-4a0f-9f72-7fec2ecd26c4" width="445px" />
 
-- 3D printed enclosure
+- [3D printed enclosure](https://github.com/cptserial/ZRound_SRTR/tree/main/STLs)
 - 5V 2A power adapter
+- Stackable headers, 2.54mm pitch
 
 # Antenna Selection
 Selecting the right antenna is critical to getting good reads of the tags as they pass.
-* [FEIG ID ANT.U LOCFIELD® Antenna](https://www.feig-electronics.com/en/products/identification/product/id-antu-locfieldr/) - above the track
+* [FEIG ID ANT.U LOCFIELD® Antenna](https://www.feig-electronics.com/en/products/identification/product/id-antu-locfieldr/) - Above the track
+* 
   Also known as the Harting Locfield Ha-Vis Travelling Wave Antenna. Works great but it doesn't like to touch the ground during operation, so it needs to be suspended from a bridge.
   Use the 1.5m version for 3-tile wide 30CM RCP track or 2-tile 50CM RCP track. Use the 2.5m version for 3-tile 50CM RCP track.
   
   <img src="https://github.com/cptserial/ZRound_SRTR/assets/5551724/d33821bc-21fb-4989-bf5f-4f131f8dd170" width="445px">
 
 * [FlexiRay SF2 Ultra Slim RFID Antenna](https://www.flexiray.com/products/sf2/) - Above or below the track
+* 
   (Still testing) Super thin, so you can pass it under the track. May require milling of the track underside.
   Use the SF-2421 (with pigtail) or SF-2401 (flush connector) for 3-tile wide 30CM RCP track or 2-tile 50CM RCP track.
 
   <img src="https://github.com/cptserial/ZRound_SRTR/assets/5551724/1c104a4c-40b1-4580-9611-6ce1bda479d0" width="445px">
 
 # Tag Selection
-  
+Tag selection is just as important as antenna selection. Try to place the antenna on the car so that it is perpendicular to the antenna's longest axis, and use as large a tag as possible.
+* H3 Alien tags are known to work well
